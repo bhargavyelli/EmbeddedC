@@ -1,3 +1,0 @@
-./file1.txt:In the world of DevOps and system administration, automating repetitive tasks is key to saving time and reducing errors. That’s where shell scripting comes in. It allows you to write a series of commands in a file and run them all at once, just like a program. Whether it is setting up servers, managing files, or deploying code shell scripts make it fast, consistent, and effortless.
-./file1.txt:A shell script is a file containing a series of commands for the shell to execute. The shell itself is a command-line interpreter (CLI), while a shell script is a saved list of instructions (usually with .sh extension) like myscript.sh.
-./file1.txt:Here are the main reasons shell scripts are widely used in IT and DevOps:
